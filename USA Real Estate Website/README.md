@@ -15,7 +15,8 @@ Dataset contains 7 columns and 5000 rows with CSV extension. The data contains t
 - 'Area Population': Population of city.
 - 'Price': Price that the house sold at.
 - 'Address': Address of the houses.
-- How To acess Web?
-- Click On Linear Regression Web Page Folder
-- Click On index.html
+  
+  How To acess Web?
+  Click On Linear Regression Web Page Folder
+  Click On index.html
 
